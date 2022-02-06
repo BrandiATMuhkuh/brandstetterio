@@ -1,6 +1,6 @@
 import type { NextPage } from "next";
 
-export default function () {
+export default function index() {
   return (
     <>
       <h1>projects</h1>
